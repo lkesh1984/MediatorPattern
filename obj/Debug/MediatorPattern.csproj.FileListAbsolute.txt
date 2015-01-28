@@ -1,0 +1,6 @@
+E:\Test Project\ConsoleTest\MediatorPattern\bin\Debug\MediatorPattern.exe.config
+E:\Test Project\ConsoleTest\MediatorPattern\bin\Debug\MediatorPattern.exe
+E:\Test Project\ConsoleTest\MediatorPattern\bin\Debug\MediatorPattern.pdb
+E:\Test Project\ConsoleTest\MediatorPattern\obj\Debug\MediatorPattern.csprojResolveAssemblyReference.cache
+E:\Test Project\ConsoleTest\MediatorPattern\obj\Debug\MediatorPattern.exe
+E:\Test Project\ConsoleTest\MediatorPattern\obj\Debug\MediatorPattern.pdb
